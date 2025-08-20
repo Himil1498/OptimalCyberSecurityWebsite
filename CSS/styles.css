@@ -24,7 +24,6 @@ body {
 .header {
   background: rgba(10, 10, 10, 0.98);
   backdrop-filter: blur(15px);
-  /* padding: 1rem 0; */
   position: fixed;
   width: 100%;
   top: 0;
